@@ -1,0 +1,16 @@
+C:\Users\haruk\source\repos\WinApp20250426\bin\Debug\WinApp20250426.exe.config
+C:\Users\haruk\source\repos\WinApp20250426\bin\Debug\WinApp20250426.exe
+C:\Users\haruk\source\repos\WinApp20250426\bin\Debug\WinApp20250426.pdb
+C:\Users\haruk\source\repos\WinApp20250426\bin\Debug\WinApp20250426.xml
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.vbproj.AssemblyReference.cache
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.Form1.resources
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.Resources.resources
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.vbproj.GenerateResource.cache
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.vbproj.CoreCompileInputs.cache
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.exe
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.xml
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.pdb
+C:\Users\haruk\source\repos\WinApp20250426\bin\Debug\WinApp20250426.exe.manifest
+C:\Users\haruk\source\repos\WinApp20250426\bin\Debug\WinApp20250426.application
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.exe.manifest
+C:\Users\haruk\source\repos\WinApp20250426\obj\Debug\WinApp20250426.application
