@@ -53,13 +53,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name=".gitignore" size="13">
+  <file name=".gitignore" size="29">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KDRLkBdNgQ9bsdR4vgCDX4LLXIbkauXNwGC4Q7qtzM4=</dsig:DigestValue>
+      <dsig:DigestValue>7L9RHoY53sxJ2EaoYE8B56Id6R3gBQ4Ebd3L/EBRhvU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WinApp20250426.exe.config" size="406">
